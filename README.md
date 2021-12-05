@@ -1,6 +1,7 @@
 Example Voting App
 =========
 
+This is a simple instavote app.
 
 Getting started
 ---------------
